@@ -1,0 +1,5 @@
+com\group6\W10\model\Movie.class
+com\group6\W10\W10Application.class
+com\group6\W10\controller\MoviesController.class
+com\group6\W10\repository\MoviesRepository.class
+com\group6\W10\service\MoviesService.class
