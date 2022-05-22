@@ -1,0 +1,35 @@
+[{
+"id" :1,
+"title": "The Shawshank Redemption",
+"genre": "Drama",
+"director": "Frank Darabont",
+"rilis" :1994
+},
+{
+"id" :2,
+"title":"The GodFather",
+"genre":"Crime,Drama", 
+"director":"Francis Ford Coppola",
+"rilis":1972
+},
+{
+"id":3,
+"title":"The Dark Knight",
+"genre" : "Action,Crime, Drama",
+"director" :"Christoper Nolan",
+"rilis":2008
+},
+{
+"id" :4 , 
+"title" : "The God Father: Part II",
+"genre":"Crime,Drama",
+"director":"Francis Ford coppola",
+"rilis":1974
+}, 
+{
+"id":5,
+"title" : "12 Angry Men",
+"genre" : "Crime,Drama", 
+"director" : "Sidney Lumet",
+"rilis" :19571
+}]
